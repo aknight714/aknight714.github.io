@@ -51,6 +51,11 @@ body > footer address {
 }
 article h3 {
 	text-align: left;
+	list-style-type: none;
+}
+
+article h3 a {
+	font-family: Verdana, Geneva, sans-serif;
 }
 
 article img {
