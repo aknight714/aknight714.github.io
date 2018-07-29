@@ -4,9 +4,8 @@
 	Author: Aaron Knight
 	Date: 7/28/2018
 	Project: Knight-Visuals Website
-	Project Files: kViz_home.html, kViz_artwork.html, kViz_resume.html, 
-				   kViz_layout.css, kViz_styleSheet.css 
-			-->
+	Project Files: index.html, kViz_resume.html, 
+				   kViz_layout.css, kViz_styleSheet.css
 			
 ============================================================
 */
@@ -56,7 +55,7 @@ body > footer::after {
 	display: table;
 }
 
-article img {
+article div img {
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;

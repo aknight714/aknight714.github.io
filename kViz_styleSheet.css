@@ -4,9 +4,9 @@
 	Author: Aaron Knight
 	Date: 7/28/2018
 	Project: Knight-Visuals Website
-	Project Files: kViz_home.html, kViz_artwork.html, kViz_resume.html, 
+	Project Files: index.html, kViz_resume.html, 
 				   kViz_layout.css, kViz_styleSheet.css 
-			-->
+			
 			
 ============================================================
 */
@@ -58,7 +58,7 @@ article h3 a {
 	font-family: Verdana, Geneva, sans-serif;
 }
 
-article img {
+article div img {
 	position: relative;
 	float: center;
 	width: 100;
